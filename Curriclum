@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<HTML lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compaible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="img/x-icon"
+    <title>Curriculo Luis Ernani Viniski</title>
+</head>
+<body>
+    <div id="apresentacao">
+        <center>
+            <h1>Luis Ernani Mendes Carneiro Viniski</h1>
+            <!-- <img src="" alt="Luis Ernani Viniski" width=500 height=600> -->
+            <hr>
+        </center>
+     </div>   
+    <div id="identificacao">
+        
+    <h2>identificação</h2>
+        <ul>
+            <li><ib>Email:</ib> luisemcviniski@fac.pe.senac.br</li>
+            <li><ib>Telefone:</ib> 81-996150610</li>
+            <li><a href="" target="blank="><ib>Lattes:</ib> </li>
+            <li><ib>GitHub</ib></li>
+        </ul>
+     </div>
+     <hr>
+    <div id="Formacao">
+     <h2>Formação</h2>
+         <ul>
+            <li>Tecnologo em Analise e Desenavolvimento de Sistema- SENAC
+            </li>
+            <li>Cursando NExt - C.E.S.A.R School</li>
+            
+            </ul>
+     </div>
+     <div id="Experiencia Profissionais">
+     <h2>Experiência Profissionais</h2>
+        <center>
+            <table>
+                <tr> 
+                    <th>Função</th>
+                    <th>Instituição</th>
+                    <th>Periodo</th>
+                </tr>
+                <tr>
+                    <td>Desenvolvedor Porutgol</td>
+                    <td>CESAR School</td>
+                    <td>ago/2022 a ago/2022</td>
+                </tr>
+            </table>
+        </center>
+        <--<ul>
+            <il>Representante Comercial - ERVI Com e Rep LTDA (2006-2017)</il>
+            <il>Administrador Comercial- Mundo dos Equipamentos e Utilidades (2016- 2022)</il>
+            <il>Administrador Comercial- Pastel Chef (2022-)</il>
+        </ul>-->   
+
+     </div>
+</body>
+</HTML>
